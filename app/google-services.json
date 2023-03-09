@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "160503698993",
+    "firebase_url": "https://hammer-35c9e.firebaseio.com",
+    "project_id": "hammer-35c9e",
+    "storage_bucket": "hammer-35c9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160503698993:android:c7e6b171dfb75adfe7a710",
+        "android_client_info": {
+          "package_name": "com.example.hammer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160503698993-9kr94q4cdl5ofhknoec33tmm8ctrv9l2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hammer",
+            "certificate_hash": "a209ec5e394a8f8af39e31536b879cbcdb33fb00"
+          }
+        },
+        {
+          "client_id": "160503698993-v6ckas39g5d4pgbuuhp2b80fefbk00hb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0uzq5Zwh4-IgG5iiKCQNpL0F5m27_NeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160503698993-v6ckas39g5d4pgbuuhp2b80fefbk00hb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
